@@ -55,4 +55,22 @@ body{
             cursor: pointer;
         }
     }
+
+}
+
+.newgame{
+    text-align: center;
+    margin-top: -6em;
+    button{
+        background-color: #F94F6D;
+        border: 1px solid #F94F6D;
+        color: #EEEEEE;
+        border-radius: 5px;
+        font-size: 1em;
+        font-family: 'verdana';
+        height: 3em;
+    }
+    button:hover{
+        cursor: pointer;
+    }
 }
